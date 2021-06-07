@@ -1,6 +1,5 @@
 function myFunction() {
-    alert("Student house pack"  +
-    "\nA starter pack to help you and your other students out with 1 roll of plastic bags, 2 rolls of green bags, a calendar with when trash is collected in your neighbourhood, 3 Packs of flower seeds and a cool Blossom bag for trips into nature. ");
+    alert("");
   }
 
   function myFunction1() {
