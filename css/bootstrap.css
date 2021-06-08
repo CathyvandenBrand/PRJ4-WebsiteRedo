@@ -10265,7 +10265,6 @@ a.text-dark:hover, a.text-dark:focus {
   }
   .container {
     min-width: 992px !important;
-    margin-right: 150px;
   }
   .navbar {
     display: none;
