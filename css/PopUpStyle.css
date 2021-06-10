@@ -1,9 +1,9 @@
 .container {
     position: relative;
-    margin-left:-20px ;
+    margin-left:50px ;
     width: 50%;
   }
-  
+
   .image {
     opacity: 1;
     display: block;
