@@ -1,8 +1,13 @@
 .logo{
-    width:180px;
-    height:180px;
-    margin-top: -30px;
+    width:100px;
+    height:100px;
+    margin-top: -0px;
     margin-left: -15px;
+}
+.nav-item{
+    text-align: center;`
+    align-items: ;
+    padding-top: 0;
 }
 .pic{
     margin-left: 880px;
@@ -34,9 +39,10 @@
 }
 
 body{
-    background-color: rgb(233, 193, 199);
+    background-color:darkseagreen
 }
 
 .navbar{
-    background-color: darkgreen;
+    background-color:black
 }
+
