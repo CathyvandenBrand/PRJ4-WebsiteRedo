@@ -5,7 +5,7 @@
     margin-left: -15px;
 }
 .pic{
-    margin-left: 950px;
+    margin-left: 880px;
     margin-top: -250px;
 }
 .pic1{
@@ -33,3 +33,6 @@
     margin-top: -100px;
 }
 
+body{
+    background-color: rgb(233, 193, 199);
+}
